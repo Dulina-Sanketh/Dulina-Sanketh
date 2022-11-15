@@ -28,6 +28,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dulina-Sanketh&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>
+
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dulina-Sanketh" align="center" /></div> 
 
 <br/>  
