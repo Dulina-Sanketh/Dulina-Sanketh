@@ -1,9 +1,8 @@
 <div align="center">
 <img src="https://www.icegif.com/wp-content/uploads/icegif-87.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center"><img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+A+brief+introduction+about+my+work+"> <img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px"></div>
+ 
+ <div align="center"><img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+A+brief+introduction+about+my+work+"> <img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px"></div>
 
 - 🔹 I'm **Dulina Sanketh** [ Sri Lanka ] 
 
