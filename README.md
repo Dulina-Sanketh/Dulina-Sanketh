@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"><img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="29px"> A brief introduction about my work <img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="29px"></div>
+### <div align="center"><img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="10px"> A brief introduction about my work <img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="10px"></div>
 
 - 🔹 I'm **Dulina Sanketh** [ Sri Lanka ] 
 
