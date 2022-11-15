@@ -21,6 +21,7 @@
 
 - 🔹 Fun fact: I use tabs over spaces 
   
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dulina-Sanketh" align="center" /></div>  
 
 <br/>  
 
