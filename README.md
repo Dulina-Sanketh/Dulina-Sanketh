@@ -4,9 +4,10 @@
   
 
 ### <div align="center">A brief introduction about my work</div>  
-  
 
-- 🔹 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔹 My name is **Dulina Sanketh** [ Sri Lanka ] 
+
+- 🔹 I’m currently working on [](https://github.com/rishavanand/github-profilinator)  
   
 
 - 🔹 I’m currently studying cybersecurity and computer networking  
