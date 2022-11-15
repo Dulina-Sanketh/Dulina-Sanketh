@@ -33,6 +33,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Dulina-Sanketh&&style=flat-square" align="center" />
+<img src="https://img.shields.io/github/stars/Dulina-Sanketh?style=social" align="center" />
 </div>  
   
 
