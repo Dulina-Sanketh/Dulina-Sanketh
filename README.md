@@ -26,7 +26,7 @@
 
 
 ## Github Status  
-<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=Dulina-Sanketh&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=Dulina-Sanketh&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true)" align="center" /></div>  
+<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=Dulina-Sanketh&show_icons=true&count_private=true&hide_border=true (https://github-readme-stats.vercel.app)" align="center" /></div>  
 
 <br/>  
 
