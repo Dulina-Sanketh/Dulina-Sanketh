@@ -13,7 +13,7 @@
 - 🔹 I’m currently studying cybersecurity and computer networking  
   
 
-- 🔹 Ask me about anything related to MERN stack and related technologies  
+- 🔹 I’m currently working languages Html , Css , Php , Python , .Net , Js
   
   
 - 🔹 If you need to contact me, you can reach me by sending an email to : service.dulinasanketh@gmail.com
