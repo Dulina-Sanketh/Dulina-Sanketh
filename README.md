@@ -5,7 +5,7 @@
 
 ### <div align="center">A brief introduction about my work</div>  
 
-- 🔹 Im **Dulina Sanketh** [ Sri Lanka ] 
+- 🔹 I'm **Dulina Sanketh** [ Sri Lanka ] 
 
 - 🔹 I’m currently working on [](https://github.com/rishavanand/github-profilinator)  
   
