@@ -52,7 +52,7 @@
 ## Cisco bages
 
 <div align="left">
-<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" align="left" width="80" height="80"/>
+<a href="https://www.credly.com/badges/aeee1e3e-b62e-45cf-90ae-71843078ead9"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" align="left" width="80" height="80"/></a>
 
 <a href="https://www.credly.com/badges/7b5bd48c-77d6-404a-8f52-78d2c699e976"><img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" align="left" width="80" height="80"/></a>
 
