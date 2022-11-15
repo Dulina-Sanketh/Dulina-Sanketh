@@ -13,13 +13,13 @@
 - 🔹 I’m currently studying cybersecurity and computer networking  
   
 
-- 🔹 I’m currently working languages Html , Css , Php , Python , .Net , Js
+- 🔹 I’m very interesting to security researching and cloud security
   
   
 - 🔹 If you need to contact me, you can reach me by sending an email to : service.dulinasanketh@gmail.com
 
 
-- 🔹 Fun fact: I use tabs over spaces 
+- 🔹 I would like to help you anytime if you want
    
 
 <br/>  
