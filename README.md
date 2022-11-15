@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center"></div>  
+### <div align="center">A brief introduction about my work</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔹 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🔹 I’m currently studying cybersecurity and computer networking  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🔹 Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- 🔹 Fun fact: I use tabs over spaces  
   
 
 <br/>  
@@ -34,14 +34,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dulina-Sanketh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
