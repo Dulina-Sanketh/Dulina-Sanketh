@@ -15,8 +15,11 @@
 
 - 🔹 Ask me about anything related to MERN stack and related technologies  
   
+  
+- 🔹 How to reach me : service.dulinasanketh@gmail.com
 
-- 🔹 Fun fact: I use tabs over spaces  
+
+- 🔹 Fun fact: I use tabs over spaces 
   
 
 <br/>  
