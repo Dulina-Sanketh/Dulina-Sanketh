@@ -57,4 +57,4 @@
 ## Cisco bages
 
 <div align="left">
-<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" align="left" width="500" height="600"/>
+<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" align="left" width="100" height="100"/>
