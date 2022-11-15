@@ -7,7 +7,7 @@
 
 - 🔹 I'm **Dulina Sanketh** [ Sri Lanka ] 
 
-- 🔹 I’m currently working on [](https://github.com/rishavanand/github-profilinator)  
+- 🔹 I’m currently working as a software and web developer [](https://github.com/rishavanand/github-profilinator)  
   
 
 - 🔹 I’m currently studying cybersecurity and computer networking  
@@ -16,7 +16,7 @@
 - 🔹 Ask me about anything related to MERN stack and related technologies  
   
   
-- 🔹 How to reach me : service.dulinasanketh@gmail.com
+- 🔹 If you need to contact me, you can reach me by sending an email to : service.dulinasanketh@gmail.com
 
 
 - 🔹 Fun fact: I use tabs over spaces 
