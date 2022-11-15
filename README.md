@@ -58,3 +58,5 @@
 
 <div align="left">
 <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" align="left" width="100" height="100"/>
+
+<img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" align="left" width="100" height="100"/>
