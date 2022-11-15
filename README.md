@@ -51,9 +51,6 @@
 
 ----
 
-<br/>
-
-
 ## Cisco bages
 
 <div align="left">
