@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"><img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px"> A brief introduction about my work <img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px"></div>
+### <div align="center"><img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+A+brief+introduction+about+my+work+)](https://git.io/typing-svg) <img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px"></div>
 
 - 🔹 I'm **Dulina Sanketh** [ Sri Lanka ] 
 
