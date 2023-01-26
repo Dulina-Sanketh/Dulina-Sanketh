@@ -6,10 +6,10 @@
 
 - 🔹 I'm **Dulina Sanketh** [ Sri Lanka ] 
 
-- 🔹 I’m currently working as a software and web developer [](https://github.com/rishavanand/github-profilinator)  
+- 🔹 I’m currently working as cybersecurity researcher and computer networking  
   
 
-- 🔹 I’m currently studying cybersecurity and computer networking  
+- 🔹 I’m currently studying software and web developer 
   
 
 - 🔹 I’m very interesting to security researching and cloud security
