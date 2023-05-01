@@ -4,7 +4,7 @@
  
  ## <div align="center"><img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px">  A brief introduction about my work  <img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px"></div>
 
-- 🔹 I'm **Dulina Sanketh** [ Sri Lanka ] 🇱🇰
+- 🔹 I'm **Dulina Sanketh** [ Sri Lanka ]
 
 - 🔹 I’m currently working as cybersecurity researcher and computer networking  
   
