@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🔹 I'm **Dulina Sanketh** [ Sri Lanka ]
+- 🔹 I'm **Dulina Sanketh** and im from [ Sri Lanka ] 🛰
 
 - 🔹 I’m currently working as cybersecurity researcher and computer networking 👨‍💻
   
