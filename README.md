@@ -58,6 +58,8 @@
 
 ## Cisco bages
 
+<br/>
+
 <div align="left">
 <a href="https://www.credly.com/badges/aeee1e3e-b62e-45cf-90ae-71843078ead9"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" align="left" width="80" height="80"/></a>
 
