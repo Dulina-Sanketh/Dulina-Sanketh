@@ -10,7 +10,7 @@
   
 
 - 🔹 I’m currently studying software and web developer 
-- 
+
 
 - 🔹 I’m very interesting to security researching and cloud security
   
