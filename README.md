@@ -25,6 +25,8 @@
 
 - 🔹 I would like to help you anytime if you want ❤
    
+   
+ <div align="center"><img src="https://api.creavite.co/out/Xpdr2bc5t8p2rtzhui_standard.gif align="center" /></div>
 
 <br/>  
 
@@ -33,7 +35,7 @@
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dulina-Sanketh&show_icons=true&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dulina-Sanketh&show_icons=true&theme=dark" align="center" /></div> 
 
 <br/>
 
