@@ -8,7 +8,7 @@
 
 - 🔹 I'm **Dulina Sanketh** [ Sri Lanka ]
 
-- 🔹 I’m currently working as cybersecurity researcher and computer networking  
+- 🔹 I’m currently working as cybersecurity researcher and computer networking 👨‍💻
   
 
 - 🔹 I’m currently studying software and web developer 
@@ -23,7 +23,7 @@
 - 🔹 If you need to contact me, you can reach me by sending an email to : service.dulinasanketh@gmail.com
 
 
-- 🔹 I would like to help you anytime if you want
+- 🔹 I would like to help you anytime if you want ❤
    
 
 <br/>  
