@@ -17,10 +17,10 @@
 - 🔹 I’m very interesting to security researching and cloud security
   
   
- - 🔹 I’m currently founder of the **XziFy SoluTions** [ Digital inovation ] https://www.xzifysolutions.com
+ - 🔹 I’m currently founder of the **XziFy SoluTions** [ Digital inovation ] https://www.xzifysolutions.com 👨‍🔧
   
   
-- 🔹 If you need to contact me, you can reach me by sending an email to : service.dulinasanketh@gmail.com
+- 🔹 If you need to contact me, you can reach me by sending an email to : service.dulinasanketh@gmail.com 📧
 
 
 - 🔹 I would like to help you anytime if you want ❤
