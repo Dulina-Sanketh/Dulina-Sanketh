@@ -23,7 +23,7 @@
 - 🔹 If you need to contact me, you can reach me by sending an email to : service.dulinasanketh@gmail.com 📧
 
 
-- 🔹 I would like to help you anytime if you want ❤
+- 🔹 If you are in trouble, I am with you anytime ❤
    
 
 <br/>  
