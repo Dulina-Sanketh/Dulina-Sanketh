@@ -71,7 +71,7 @@
  <br/>
  <br/>
  
- ## Capture the Flag Profile 👨‍🎓
+ ## Capture the Flag Profile 👾
 
  <br/>
  
