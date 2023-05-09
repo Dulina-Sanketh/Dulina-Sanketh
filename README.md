@@ -77,7 +77,8 @@
  
  <div align="left">
  
-<img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" align="left" /></a>
+<img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" align="left" value="https://tryhackme.com/p/GhostXXXXX" />
+</a>
  
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" align="left" /></a>
  
