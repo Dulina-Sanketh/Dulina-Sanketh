@@ -52,11 +52,6 @@
   
 
 <br/>  
-
-<div align="center"></div>
-<div align="center"><img src="https://media.discordapp.net/attachments/998142403330457641/1104792141143744582/standard.gif" align="center" style="width: 100%" />
- <br/>
-<center>💫 https://www.xzifysolutions.com 💫</center>
  
 <br/>
 
