@@ -69,9 +69,15 @@
 <a href="https://img.shields.io/badge/HackerOne-494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white" align="left" width="80" height="80"/></a>
 
  <br/>
+ <br/>
+ <br/>
  
  ## Capture the Flag Profile 👨‍🎓
 
+ <br/>
+ 
+ <div align="left">
+ 
 <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" align="left" /></a>
  
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" align="left" /></a>
