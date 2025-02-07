@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.icegif.com/wp-content/uploads/icegif-87.gif" align="center" style="width: 100%" />
+<img src="https://cdn.kibrispdr.org/data/1798/welcome-gif-39.gif" align="center" style="width: 100%" />
 </div>  
  
  ## <div align="center"><img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px">  A brief introduction about my work  <img src="https://img.icons8.com/fluency/512/security-wi-fi.png" width="20px"></div>
@@ -21,9 +21,6 @@
   
   
 - 🔹 If you need to contact me, you can reach me by sending an email to : service.dulinasanketh@gmail.com 📧
-
-
-- 🔹 If you are in trouble, I am with you anytime ❤
    
 
 <br/>  
@@ -57,7 +54,7 @@
 
 <div align="left"> 
  
-## Cisco badges 👨‍🎓
+## Certifications 👨‍🎓
 
 <br/>
 
