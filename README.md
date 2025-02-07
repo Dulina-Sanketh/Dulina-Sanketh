@@ -6,16 +6,7 @@
 
 <br/>
 
-- 🔹 I'm **Dulina Sanketh** and im from [ Sri Lanka ] 🛰
-
 - 🔹 I’m currently working as cybersecurity researcher and computer networking 👨‍💻
-  
-
-- 🔹 I’m currently studying software and web developer 
-
-
-- 🔹 I’m very interesting to security researching and cloud security
-
     
 - 🔹 If you need to contact me, you can reach me by sending an email to : service.dulinasanketh@gmail.com 📧
    
