@@ -6,9 +6,9 @@
 
 <br/>
 
-- 🔹 I’m currently working as cybersecurity researcher and computer networking 👨‍💻
+- 🔹 I’m currently working as a cybersecurity researcher and computer networking 👨‍💻
     
-- 🔹 If you need to contact me, you can reach me by sending an email to : service.dulinasanketh@gmail.com 📧
+- 🔹 If you need to contact me, you can reach me by sending an email to: service.dulinasanketh@gmail.com 📧
    
 
 <br/>  
