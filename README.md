@@ -61,13 +61,8 @@
  <br/>
  
  <div align="left">
- 
-<a href="https://tryhackme.com/p/GhostXXXXX"><img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" align="left"  />
-</a>
- 
-<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" align="left" /></a>
- 
-<img src="https://img.shields.io/badge/HackerOne-494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white" align="left" /></a>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xGhoSt.png" alt="Your Image Badge" />
 
  <br/>
   
